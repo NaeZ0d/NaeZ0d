@@ -14,7 +14,7 @@
 <h2>👨‍💻Cybersecurity Projects/Labs:</h2>
 
 - <b>AD Bulk User Creation[Active Directory Bulk User Creation]</b> 
-  - Active Directory Home Lab: (https://github.com/NaeZ0d/AD_PS) 
+  - Active Directory Home Lab: (https://github.com/NaeZ0d/AD-PS) 
   
 - <b>FIM (File Integrity Monitor)</b> 
   - File Integrity Monitor: (https://github.com/NaeZ0d/PowerShell-Integrity-FIM)
