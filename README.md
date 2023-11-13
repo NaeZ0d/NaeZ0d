@@ -1,16 +1,50 @@
-### Hi there 👋
+<h1>Hi, I'm Nnaemeka! <br/><a href="https://github.com/NaeZ0d">CompSci Student</a>, <a href="https://www.linkedin.com/in/nnaemekan/">Aspiring Cybersecurity Incident Responder</a>, <a>Drone Aficionado</a></h1>
 
-<!--
-**NaeZ0d/NaeZ0d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/NaeZ0d/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/NaeZ0d/Jwipe.PowerShell)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/NaeZ0d/Package-Delivery-Pathfinding-Algorithm)
+- <b>JavaScript</b>
+  - 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>👨‍💻Cybersecurity Projects/Labs:</h2>
+
+- <b>AD Bulk User Creation[Active Directory Bulk User Creation]</b> 
+  - Active Directory Home Lab: (https://github.com/NaeZ0d/AD_PS) 
+  
+- <b>FIM (File Integrity Monitor)</b> 
+  - File Integrity Monitor: (https://github.com/NaeZ0d/PowerShell-Integrity-FIM)
+    
+- <b>SIEM / Azure Sentinal</b>
+  - SIEM Honeypot: (https://github.com/NaeZ0d/SIEM)
+ 
+- <b> Nessus Vulnerability Management</b>
+  - Vulnerability Management: (https://github.com/NaeZ0d/NessusV-Vulnerability-Management)
+ 
+- <h2> Certifications:</h2>
+
+- <b>Google Coursera</b>
+  - [IT Support](https://github.com/NaeZ0d/Sentinel-Lab)
+  - [Google Cybersecurity](https://github.com/NaeZ0d/Jwipe.PowerShell)
+  - [Microsoft Cybersecurity](https://github.com/NaeZ0d/Jwipe.PowerShell)
+- <b>CISCO</b>
+  - [CCST](https://github.com/NaeZ0d/Package-Delivery-Pathfinding-Algorithm)
+  - [CCNA](https://github.com/NaeZ0d/Jwipe.PowerShell)
+- <b>CompTIA</b>
+  - [A+](https://github.com/NaeZ0d/Jwipe.PowerShell)
+  - [Network+](https://github.com/NaeZ0d/Jwipe.PowerShell)
+  - [Security+](https://github.com/NaeZ0d/Jwipe.PowerShell)
+- <b>Microsoft</b>
+  - [MS-900](https://github.com/NaeZ0d/Jwipe.PowerShell)
+  - [AZ-900](https://github.com/NaeZ0d/Jwipe.PowerShell)
+  - [SC-900](https://github.com/NaeZ0d/Jwipe.PowerShell)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="NnaemekaNkulume | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/nnaemekan
