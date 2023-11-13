@@ -8,7 +8,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/NaeZ0d/Package-Delivery-Pathfinding-Algorithm)
 - <b>JavaScript</b>
-  - 
+  - [Personal E-Portfolio](https://github.com/NaeZ0d/My-EPortfolio) 
 
 
 <h2>👨‍💻Cybersecurity Projects/Labs:</h2>
@@ -19,8 +19,8 @@
 - <b>FIM (File Integrity Monitor)</b> 
   - File Integrity Monitor: (https://github.com/NaeZ0d/PowerShell-Integrity-FIM)
     
-- <b>SIEM / Azure Sentinal</b>
-  - SIEM Honeypot: (https://github.com/NaeZ0d/SIEM)
+- <b>Azure Sentinal</b>
+  - Cloud Based SIEM Honeypot: (https://github.com/NaeZ0d/SIEM)
  
 - <b> Nessus Vulnerability Management</b>
   - Vulnerability Management: (https://github.com/NaeZ0d/NessusV-Vulnerability-Management)
