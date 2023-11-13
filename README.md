@@ -6,7 +6,7 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/NaeZ0d/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/NaeZ0d/Jwipe.PowerShell)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/NaeZ0d/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Data Structures and Algorithms Demo)](https://github.com/NaeZ0d/Package-Delivery-Pathfinding-Algorithm)
 - <b>JavaScript</b>
   - [Personal E-Portfolio](https://github.com/NaeZ0d/My-EPortfolio) 
 
