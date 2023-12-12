@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nnaemeka! <br/><a href="https://github.com/NaeZ0d">CompSci Student</a>, <a href="https://www.linkedin.com/in/nnaemekan/">Aspiring Cybersecurity Incident Responder</a>, <a>Drone Aficionado</a></h1>
+<h1> Hi, I'm Nnaemeka! <br/><a href="https://github.com/NaeZ0d"> CompSci Student </a>, <a href="https://www.linkedin.com/in/nnaemekan/"> Aspiring Cybersecurity Incident Responder </a>, <a> Drone Aficionado</a></h1>
 
 <h2>About Me:</h2>
 
