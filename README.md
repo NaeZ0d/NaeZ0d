@@ -1,5 +1,10 @@
 <h1>Hi, I'm Nnaemeka! <br/><a href="https://github.com/NaeZ0d">CompSci Student</a>, <a href="https://www.linkedin.com/in/nnaemekan/">Aspiring Cybersecurity Incident Responder</a>, <a>Drone Aficionado</a></h1>
 
+<h2>About Me:</h2>
+
+- <b>Write 5-10 sentences. Similar to a cover letter.</b>
+
+
 <h2>👨‍💻Cybersecurity Projects/Labs:</h2>
 
 - <b>FIM (File Integrity Monitor)</b> 
