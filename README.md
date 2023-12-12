@@ -1,16 +1,5 @@
 <h1>Hi, I'm Nnaemeka! <br/><a href="https://github.com/NaeZ0d">CompSci Student</a>, <a href="https://www.linkedin.com/in/nnaemekan/">Aspiring Cybersecurity Incident Responder</a>, <a>Drone Aficionado</a></h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
-
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/NaeZ0d/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/NaeZ0d/Jwipe.PowerShell)
-- <b>Python</b>
-  - [Package Delivery Application (Data Structures and Algorithms Demo)](https://github.com/NaeZ0d/Package-Delivery-Pathfinding-Algorithm)
-- <b>JavaScript</b>
-  - [Personal E-Portfolio](https://github.com/NaeZ0d/My-EPortfolio) 
-
-
 <h2>👨‍💻Cybersecurity Projects/Labs:</h2>
 
 - <b>FIM (File Integrity Monitor)</b> 
