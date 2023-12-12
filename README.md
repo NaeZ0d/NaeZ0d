@@ -2,7 +2,7 @@
 
 <h2>About Me:</h2>
 
-- <b>Write 5-10 sentences. Similar to a cover letter.</b>
+<b>Write 5-10 sentences. Similar to a cover letter.</b>
 
 
 <h2>👨‍💻Cybersecurity Projects/Labs:</h2>
