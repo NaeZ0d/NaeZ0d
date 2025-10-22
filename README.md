@@ -51,8 +51,7 @@ I am deeply interested in cybersecurity, particularly in security operations, th
 
 ---
 
-## 🧪 Homelab Projects – **COREMESH**
-
+## 🧪 Homelab Projects – **[COREMESH](https://github.com/NaeZ0d/COREMESH)**
 My homelab serves as my personal cybersecurity playground. Some highlights:
 
 - **Active Directory Lab** with domain-joined Windows clients  
