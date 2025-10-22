@@ -7,31 +7,32 @@
 
 ## 💼 About Me
 
-I'm a dedicated IT and cybersecurity student with four years of combined academic training and real-world experience in technical support, system administration, and hardware deployment. I've supported a range of IT operations, from restoring network outages to assisting in large-scale device rollouts, and I enjoy applying what I learn to solve real-world problems and improve systems in meaningful ways, as well as contribute to the teams I find myself on.
+I am a dedicated IT professional and cybersecurity student with four years of combined academic training and hands-on experience in technical support, system administration, and hardware deployment. I have supported a wide range of IT operations, from restoring network outages to assisting with large-scale device rollouts, and I thrive on applying my skills to solve real-world problems, optimize systems, and contribute meaningfully to the teams I work with.
 
-Currently, I work as a Help Desk Specialist at an MSP, where I provide technical support across various platforms and environments to multiple organizations. In addition to my support duties, I serve as the main point of contact for one of our key clients, managing communication, addressing issues directly, and ensuring smooth coordination between our teams.
+Currently, I serve as a Help Desk Analyst at a university hospital, providing technical support across multiple platforms and environments for staff and clinicians. I act as a primary point of contact for various technical issues, managing communication, resolving problems efficiently, and ensuring smooth coordination across teams.
 
-I'm deeply interested in security operations and actively developing my skills in security monitoring, threat analysis, and network defense through COREMESH, my self-built enterprise lab designed to connect certification learning with real-world, hands-on experience.
+I am deeply interested in cybersecurity, particularly in security operations, threat analysis, and network defense. I actively develop these skills through COREMESH, my self-built enterprise lab, which bridges certification learning with practical, hands-on experience in monitoring, detection, and defense in a simulated enterprise environment.
 
 ---
-
 ## 🧠 Skills
 
 ### 🖥️ Systems & Support
 - Windows 10/11, Windows Server (2019/2022), Linux (Ubuntu, Kali), macOS
 - Active Directory administration, Group Policy management
 - Microsoft 365 Suite: Exchange Online, SharePoint, Teams
-- Endpoint provisioning and compliance via **Intune** and **Apple Business Manager**
-- Hardware deployment, break/fix, and printer troubleshooting
-- Ticketing systems: **ServiceNow**, **Salesforce**, **PowerApps**
-- Backup & recovery with **Datto**
-- VOIP administration using **WeConnect** (MAC address mapping, extension assignment)
-- Remote troubleshooting via **RDP**, **Pulseway**, **Kaseya VSA**
+- Endpoint provisioning and compliance via Intune and Apple Business Manager (ABM)
+- Hardware deployment, break/fix, and printer troubleshooting (Konica, general MFPs)
+- Ticketing systems: ServiceNow, Salesforce, PowerApps
+- Backup & recovery with Datto
+- VOIP administration using WeConnect (MAC address mapping, extension assignment)
+- Remote troubleshooting via RDP, Pulseway, Kaseya VSA
+- Virtual desktop environments: Citrix administration and support
+- Electronic health record support: Athena user troubleshooting
 
 ### 🔧 Tools, Scripting & Automation
 - Microsoft Defender for Endpoint, Defender for O365 (phishing protection)
-- Threat protection with **Graphus**, **RocketCyber**
-- Scripting for basic automation: **PowerShell**, **Python**, **SQL**
+- Threat protection with Graphus, RocketCyber
+- Scripting for basic automation: PowerShell, Python, SQL
 - Microsoft Azure Admin basics (via AZ-900 experience)
 - Imaging, BIOS/UEFI configuration, and OS deployment for POS systems
 
@@ -40,12 +41,13 @@ I'm deeply interested in security operations and actively developing my skills i
 - DNS, DHCP, IPv4/IPv6 configuration and troubleshooting
 - VPN setup and support (Cisco Meraki)
 - Firewall fundamentals, VLAN segmentation, and network isolation (pfSense, TP-Link Smart Switch)
-- Network packet analysis with **Wireshark**, **Nmap**, and **ZenMap**
+- Network packet analysis with Wireshark, Nmap, and ZenMap
 - Basic SOC concepts: log analysis, SIEM tools (Wazuh, Splunk), network defense simulation
 
 ### 🧰 Additional Skills & Knowledge Areas
 - IT documentation and standard operating procedures (SOPs)
-- API and automation concepts (basic exposure via Microsoft 365/Intune scripting)
+- Endpoint Management: Microsoft 365, Intune, Apple Business Manager (ABM)
+
 
 ---
 
@@ -74,13 +76,14 @@ My homelab serves as my personal cybersecurity playground. Some highlights:
 - ✅ MS-900: Microsoft 365 Fundamentals (2025)  
 - ✅ CompTIA A+ (2025)  
 - ✅ ITIL 4 Foundation (2025)  
-- 🔄 CompTIA Network+ (In Progress)  
+- ✅ CompTIA Network+ (2025)
+- 🔄  CompTIA Security+ (In Progress)
 
 ---
 
 ## 🎯 Goals
 
-- 📌 Obtain **CompTIA Network+** certification  
+- 📌 Obtain **CompTIA Security+** certification  
 - 🎯 Secure a role in a **SOC**, **NOC**, or as a **Cybersecurity Analyst**  
 - 🚀 Build and maintain a strong **GitHub portfolio** showcasing my skills and projects  
 - ⚙️ Gain hands-on experience with **SIEM**, **packet analysis**, and **automation tools**  
