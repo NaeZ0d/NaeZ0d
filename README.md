@@ -76,13 +76,14 @@ My homelab serves as my personal cybersecurity playground. Some highlights:
 - ✅ CompTIA A+ (2025)  
 - ✅ ITIL 4 Foundation (2025)  
 - ✅ CompTIA Network+ (2025)
-- 🔄  CompTIA Security+ (In Progress)
+- ✅ CompTIA Security+ (2025)
+- ✅ LPI Linux Essentials (2026)
 
 ---
 
 ## 🎯 Goals
 
-- 📌 Obtain **CompTIA Security+** certification  
+- 📌 Obtain **CCNA** certification  
 - 🎯 Secure a role in a **SOC**, **NOC**, or as a **Cybersecurity Analyst**  
 - 🚀 Build and maintain a strong **GitHub portfolio** showcasing my skills and projects  
 - ⚙️ Gain hands-on experience with **SIEM**, **packet analysis**, and **automation tools**  
